@@ -119,11 +119,11 @@ jupyter notebook notebooks/05_final_load_prep.ipynb
 
 | Member | Role | GitHub |
 |--------|------|--------|
-| Member 1 | Project Lead / ETL Engineer | @member1 |
-| Member 2 | Data Analyst / Visualisation | @member2 |
-| Member 3 | Statistical Analyst | @member3 |
-| Member 4 | KPI Design / Tableau | @member4 |
-| Member 5 | Reporting & Documentation | @member5 |
+| Member 1 | Project Lead / ETL Engineer | Advik Khandelwal |
+| Member 2 | Data Analyst / Visualisation | Meet Kumar |
+| Member 3 | Statistical Analyst | Sahil Kumar |
+| Member 4 | KPI Design / Tableau | Manu Pal |
+| Member 5 | Reporting & Documentation | Harsh Ahlawat |
 
 ---
 
