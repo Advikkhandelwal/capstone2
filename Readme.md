@@ -129,23 +129,11 @@ jupyter notebook notebooks/05_final_load_prep.ipynb
 
 ## Dashboard
 
-**Tableau Public:** https://public.tableau.com/views/IPL_Performance_Analytics_Capstone2
+**Tableau Public:** https://public.tableau.com/app/profile/manu.pal/viz/ipl_anlytics/IPL_Performance_Analytics_Capstone2?publish=yes
 
 Interactive features: Season filter | Team filter | Phase filter | Dynamic KPI cards
 
 ---
 
-## Evaluation Rubric Alignment
 
-| Area | Marks | Our Approach |
-|------|-------|-------------|
-| Problem Framing | 10 | Clear business question with 5 sub-hypotheses |
-| Data Quality & ETL | 15 | 9 documented transformations, zero critical nulls |
-| Analysis Depth | 25 | 5 statistical tests + correlation + regression |
-| Dashboard & Viz | 20 | Tableau Public with 4 views + interactive filters |
-| Business Recommendations | 20 | 5 specific, data-backed, impact-estimated recommendations |
-| Storytelling & Clarity | 10 | 15-page professional PDF + 15-slide deck |
 
----
-
-*"Tools don't get you marks. Thinking gets you marks."*
